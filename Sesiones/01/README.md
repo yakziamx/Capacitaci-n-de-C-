@@ -1,4 +1,4 @@
-## Martes, 16 de abril de 2024
+Martes, 16 de abril de 2024
 
 ## Links de sesiones.
 - https://meet.google.com/fof-bcqp-ohr
@@ -6,15 +6,11 @@
 - https://meet.google.com/kyy-mkpz-vvn
 - https://meet.google.com/pex-sxvg-vsc
 
----
-
 ## Recursos:
 - [GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf)
 - [ASP.NET Core Developer](https://roadmap.sh/aspnet-core)
 - [Historia de C#](https://learn.microsoft.com/es-es/dotnet/csharp/whats-new/csharp-version-history)
 - [1.6 Inicio - Sobre el Control de Versiones - Configurando Git por primera vez](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez)
-
----
 
 ## Actividades
 - Crear cuenta en [Github](https://github.com/)

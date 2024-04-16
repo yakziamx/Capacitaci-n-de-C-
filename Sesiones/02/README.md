@@ -1,12 +1,10 @@
-## Lunes, 15 de abril de 2024
+Lunes, 15 de abril de 2024
 
 ## Link de sesiones
 - https://meet.google.com/syj-dvcz-wck
 - https://meet.google.com/iux-xqet-wwy
 - https://meet.google.com/arh-nskr-zdc
 - https://meet.google.com/psd-rysu-wuc
-
----
 
 ## Recursos
 - [Palabras clave de C#](https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/keywords/)
