@@ -1,2 +1,1 @@
-# Capacitaci-n-de-C-
-Capacitación de C# by Samuel Arellano
+# Capacitación de C# by Samuel Arellano
