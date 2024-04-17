@@ -1,4 +1,4 @@
-Martes, 16 de abril de 2024
+Lunes, 15 de abril de 2024
 
 ## Links de sesiones.
 - https://meet.google.com/fof-bcqp-ohr
