@@ -54,11 +54,14 @@
 
     private static ConsoleColor ObtenerColorDeConsolaPersonalizado(double resultado)
     {
-        if (resultado == 0)
-            return ConsoleColor.Blue;
-        else if (resultado > 0)
-            return ConsoleColor.Green;
-        else
-            return ConsoleColor.Red;
+        switch (resultado)
+        {
+            case 0:
+                return ConsoleColor.Blue;
+            case > 0:
+                return ConsoleColor.Green;
+            default:
+                return ConsoleColor.Red;
+        }
     }
 }

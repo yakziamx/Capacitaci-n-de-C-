@@ -14,11 +14,11 @@ while (continuar)
     Console.Write("Escribe el número de opción: ");
 
     string? opcion = Console.ReadLine();
-    int numeroOpcion;
+    int numeroOpcion = 0;
     bool esOpcionNumerica = int.TryParse(opcion, out numeroOpcion);
     Console.WriteLine();
 
-    if (esOpcionNumerica == false)
+    if (!esOpcionNumerica)
     {
         Console.WriteLine($"La opción que escribiste ({opcion}) no es válida.");
         Console.ReadLine();
@@ -31,15 +31,14 @@ while (continuar)
         Console.ReadLine();
         continue;
     }
-
-    if (numeroOpcion == 5)
+    else if (numeroOpcion == 5)
     {
         Console.WriteLine("Gracias por usar la calculadora.");
         break;
     }
 
-    int numeroUno;
-    int numeroDos;
+    int numeroUno = 0;
+    int numeroDos = 0;
 
     Console.WriteLine();
 
